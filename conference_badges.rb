@@ -1,6 +1,6 @@
 attendees = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz.]
 
-def 
+def badge
 def batch_badge_creator(attendees)
   attendees.map do |attendees|
   puts "Hello, my name is #{attendees}!"
