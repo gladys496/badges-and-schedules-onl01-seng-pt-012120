@@ -21,7 +21,7 @@ def assign_rooms(attendees)
      puts badge
  end
  
- assign_rooms
+ assign_rooms(attendees)
    
  end
      
