@@ -22,7 +22,7 @@ def assign_rooms(attendees)
  end
  
  assign_rooms(attendees).each do |attendee|
-   
+   puts attendees
  end
    
  end
