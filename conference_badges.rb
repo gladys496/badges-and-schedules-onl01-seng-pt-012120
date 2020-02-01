@@ -24,6 +24,8 @@ def assign_rooms(attendees)
  assign_rooms(attendees).each do |attendee|
    
  end
+   
+ end
      
  
 
