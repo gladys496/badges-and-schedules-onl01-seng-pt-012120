@@ -21,7 +21,7 @@ def assign_rooms(attendees)
      puts badge
  end
  
- assign_rooms(attendees).each do 
+ assign_rooms(attendees).each do |attendee|
    
  end
      
